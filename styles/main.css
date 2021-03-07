@@ -1,0 +1,13 @@
+
+.navbar-end{
+    position: absolute !important;
+      bottom: 0;
+      width: 100%;
+  }
+  body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(232 232 234) 0%, rgb(228 228 228) 35%, rgb(215 222 223) 100%);
+  }
+  .media-center{
+    padding-left: 36%;
+  }
